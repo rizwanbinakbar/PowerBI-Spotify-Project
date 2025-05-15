@@ -13,7 +13,7 @@ This Power BI project explores Spotify track and artist data, providing a clean 
 
 - `spotify_updated_project.pbix` – Power BI report file
 - `data + docs/spotify_with_links.csv` – dataset used
-- ![Spotify Dashboard Preview](datasets + docs/Spotify_Picture_Project.png)
+- ![Spotify Dashboard Preview](datasets_&_docs/Spotify_Picture_Project.png)
 
 ## Tools and Technologies
 
