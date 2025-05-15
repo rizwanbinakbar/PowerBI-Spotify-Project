@@ -11,19 +11,22 @@ This Power BI project explores Spotify track and artist data, providing a clean 
 
 ## Project Files
 
-- `spotify_dashboard.pbix` – Power BI report file
-- `data/spotify_data.csv` – (optional) sample dataset used
-- `images/` – folder for dashboard screenshots (if included)
+- `spotify_updated_project.pbix` – Power BI report file
+- `data + docs/spotify_with_links.csv` – dataset used
+- `images/` – dashboard screenshots
 
 ## Tools and Technologies
 
 - Power BI Desktop
 - Power Query
 - DAX
-- Spotify dataset (from Spotify API or a public source like Kaggle)
+- Spotify dataset (from Spotify API * Kaggle)
 
 ## Notes
 
 - The visuals are fully interactive and dynamically update based on slicers and filters.
 - Album covers are rendered using URLs from the dataset.
 - Data used is for educational and portfolio purposes only.
+
+Regards, 
+        **Rizwan bin Akbar**
