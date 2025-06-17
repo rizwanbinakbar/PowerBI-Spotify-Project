@@ -11,7 +11,7 @@ This Power BI project explores Spotify track and artist data, providing a clean 
 
 ## Project Files
 
--  Power BI report file
+-  Power BI report file (E-mail me if you want the source file, rizwanforbuissnes@gmail.com happy to help 😊)
 -  Dataset used
 - ![Dahsboard](datasets_docs/Spotify_Picture_Project.png)
 
